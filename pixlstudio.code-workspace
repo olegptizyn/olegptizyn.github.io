@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/mailer (1)/mailer"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pixlstudio"
+	}
+}
